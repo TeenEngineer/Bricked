@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">App Lock Service - Detects when locked apps are launched and shows lock screen</string>
+</resources>
