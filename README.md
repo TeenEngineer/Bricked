@@ -5,6 +5,6 @@ Here is the demo of the app with the setup instructions(**ON SAMSUNG**):
 
 https://github.com/user-attachments/assets/4c735f48-1b2c-4101-a4e7-6153290229bd
 
-> Before using the app, make sure to turn on the "Appear on top" permission in settings, and turn on accessibility permissions too.
+> Before using the app, make sure to turn on the "Appear on top" permission in settings, and turn on accessibility permissions too. After opening the app, the app will ask for permissions to run in the background(E.g. on samsung it will ask "Stop optimizing battery usage?")
 
 \- a *member* of **Hack Club**
